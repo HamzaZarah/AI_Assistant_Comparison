@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SonarLintProjectSettings">
+    <option name="bindingEnabled" value="true" />
     <option name="moduleMapping">
       <map>
         <entry key="AI_Assistant_Comparison" value="pythonProject" />
       </map>
     </option>
+    <option name="projectKey" value="AI_Assistant_Comparison" />
+    <option name="serverId" value="AI_Assistant_Comparison" />
   </component>
 </project>
